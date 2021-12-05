@@ -1,8 +1,11 @@
-### Olá! Eu sou o Luiz Fernando
+### My name is Luiz Fernando
 
-- 🔭 Sou estagiário no TI da faculdade Fatec Itapetininga
-- 🌱 Estudando Análise e desenvolvimento de sistemas
-- 📫 Contate-me: luizferreiraa34@gmail.com
+<div align="left">
+- 🔭 Sou estagiário no TI da faculdade Fatec Itapetininga<br>
+- 🌱 Estudando Análise e desenvolvimento de sistemas<br>
+- 📫 Contate-me: luizferreiraa34@gmail.com<br>
+</div>
+
 ##
 
 <div align="left">
