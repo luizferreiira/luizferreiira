@@ -21,7 +21,7 @@
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Luiz Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Luiz C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Luiz-pic" height="110" width="100" style="border-radius:30px;" src="https://media.discordapp.net/attachments/769772574317608963/916901340079345785/giphy.gif">
+  <img align="right" alt="Luiz-pic" height="110" width="100" style="border-radius:30px;" src="https://media.discordapp.net/attachments/769772574317608963/930705295343255562/miranha-renato-miranha.gif">
 </div>
   
 ##
