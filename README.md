@@ -1,8 +1,8 @@
-### Olá! Eu sou o Luiz Fernando.
+### Hi, I'm Luiz!
 
 <div align="left">
-- 🌱 Estudando Análise e desenvolvimento de sistemas<br>
-- 📫 Contate-me: luizferreiraa34@gmail.com<br>
+- 🌱 Studying Systems Analysis and Development<br>
+- 📫 Contact me: luizferreiraa34@gmail.com<br>
 </div>
 
 ##
