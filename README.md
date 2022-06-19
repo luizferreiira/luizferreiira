@@ -1,4 +1,4 @@
-### Hi, I'm Luiz!
+### Hi! I'm Luiz Fernando.
 
 <div align="left">
 - 🌱 Studying Systems Analysis and Development<br>
