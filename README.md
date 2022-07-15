@@ -1,9 +1,11 @@
-### Hi! I'm Luiz Fernando.
+### <div align="left">Hi! I'm Luiz Fernando. ![Profile View Counter](https://komarev.com/ghpvc/?username=luizferreiira)</div>
 
 <div align="left">
 - 🌱 Studying Systems Analysis and Development<br>
 - 📫 Contact me: luizferreiraa34@gmail.com<br>
-</div>
+
+ ##   Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
 
 ##
 
