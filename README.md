@@ -1,4 +1,4 @@
-### <div> Welcome! ![Profile View Counter](https://komarev.com/ghpvc/?username=luizferreiira)</div><br>
+### <div> Welcome! ![Profile View Counter](https://komarev.com/ghpvc/?username=luizferreiira)</div>
 
 
 <div align="left">
