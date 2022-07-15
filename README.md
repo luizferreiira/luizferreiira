@@ -1,6 +1,8 @@
-### <div align="left">Hi! I'm Luiz Fernando. ![Profile View Counter](https://komarev.com/ghpvc/?username=luizferreiira)</div>
+### <div> Welcome! ![Profile View Counter](https://komarev.com/ghpvc/?username=luizferreiira)</div><br>
+
 
 <div align="left">
+- :man: My name is Luiz Fernando. <br>
 - 🌱 Studying Systems Analysis and Development<br>
 - 📫 Contact me: luizferreiraa34@gmail.com<br>
 
