@@ -3,7 +3,7 @@
 
 <div align="left">
 - :man: My name is Luiz Fernando. <br>
-- 🌱 Studying Systems Analysis and Development<br>
+- 🌱 I'm Studying Systems Analysis and Development<br>
 - 📫 Contact me: luizferreiraa34@gmail.com<br>
 
  ##   Here is a random joke that'll make you laugh!
