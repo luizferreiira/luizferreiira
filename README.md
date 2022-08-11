@@ -2,8 +2,9 @@
 
 
 <div align="left">
-- :man: My name is Luiz Fernando. <br>
-- 🌱 I'm Studying Systems Analysis and Development<br>
+- :man: My name is Luiz Fernando<br>
+- :mortar_board: I'm Studying Systems Analysis and Development<br>
+- :mortar_board: I'm a computer teacher<br>
 - 📫 Contact me: luizferreiraa34@gmail.com<br>
 
  ##   Here is a random joke that'll make you laugh!
