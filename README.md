@@ -6,9 +6,6 @@
 - :mortar_board: I'm Studying Systems Analysis and Development<br>
 - :mortar_board: I'm a computer teacher<br>
 - 📫 Contact me: luizferreiraa34@gmail.com<br>
-
- ##   Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
   
   <div style="display: inline_block"><br>
     <h2>Languages</h2>
