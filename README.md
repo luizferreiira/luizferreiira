@@ -9,14 +9,6 @@
 
  ##   Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
-
-##
-
-<div align="left">
-  <a href="https://github.com/luizferreiira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizferreiira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizferreiira&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
   <div style="display: inline_block"><br>
     <h2>Languages</h2>
