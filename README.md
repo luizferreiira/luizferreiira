@@ -4,7 +4,6 @@
 <div align="left">
 - :man: My name is Luiz Fernando<br>
 - :mortar_board: I'm Studying Systems Analysis and Development<br>
-- :mortar_board: I'm a computer teacher<br>
 - 📫 Contact me: luizferreiraa34@gmail.com<br>
   
   <div style="display: inline_block"><br>
