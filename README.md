@@ -3,7 +3,7 @@
 
 <div align="left">
 - :man: My name is Luiz Fernando<br>
-- :mortar_board: Graduated in systems analysis and development<br>
+- :mortar_board: Graduated in Systems Analysis and Development<br>
 - 📫 Contact me: luizferreiraa34@gmail.com<br>
   
   <div style="display: inline_block"><br>
